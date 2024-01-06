@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souradeepmajumdar05" alt="souradeepmajumdar05" /></a> </p>
 
+-  I'm currently working as a Software Engineer at Clarisights building a smart orchestrator using Elixir
+
 - 👨‍💻 All of my projects are available at [https://github.com/souradeepmajumdar05?tab=repositories](https://github.com/souradeepmajumdar05?tab=repositories)
 
 - 📫 How to reach me **souradeepmajumdar05@gmail.com**
