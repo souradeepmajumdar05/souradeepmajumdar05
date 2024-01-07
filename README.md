@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Souradeep Majumdar</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=souradeepmajumdar05&label=Profile%20views&color=0e75b6&style=flat" alt="mani2310" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souradeepmajumdar05" alt="souradeepmajumdar05" /></a> </p>
 
 -  I'm currently working as a Software Engineer at Clarisights building a smart orchestrator using Elixir
